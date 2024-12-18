@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MySplashScreen" parent="Theme.SplashScreen">
+        <item name="android:windowSplashScreenBackground">@color/purple_500</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/sup</item>
+        <item name="android:windowSplashScreenAnimationDuration">1000</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">@color/purple_200</item>
+        <item name="android:windowSplashScreenBrandingImage">@drawable/ic_launcher_background</item>
+    </style>
+</resources>
